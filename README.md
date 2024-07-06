@@ -8,10 +8,11 @@ FastAPI é um moderno e rápido (alta performance) framework web para construç�
 Código assíncrono apenas significa que a linguagem tem um jeito de dizer para o computador / programa que em certo ponto, ele terá que esperar por algo para finalizar em outro lugar
 
 # Projeto
+Projeto para curso de API da DIO - Bootcamp Python para Backend com AI.
+
 ## WorkoutAPI
 
 Esta é uma API de competição de crossfit chamada WorkoutAPI . É uma API pequena, devido a ser um projeto mais hands-on e simplificado nós desenvolveremos uma API de poucas tabelas, mas com o necessário para você aprender como utilizar o FastAPI.
-Projeto para curso de API da DIO
 
 ## Modelagem de entidade e relacionamento - MER
 ![MER](/mer.jpg "Modelagem de entidade e relacionamento")
